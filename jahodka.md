@@ -1,6 +1,6 @@
 # Toto je jahodka
 
-zmena 1
+**Zmena - laptop**
 
 Jahodka je:
 
