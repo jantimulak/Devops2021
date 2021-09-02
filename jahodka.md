@@ -1,6 +1,6 @@
 # Toto je jahodka
 
-**Zmena - laptop 3**
+**Zmena - laptop merge**
 
 Jahodka je:
 
