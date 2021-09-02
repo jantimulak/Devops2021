@@ -1,5 +1,7 @@
 # Toto je jahodka
 
+zmena 1
+
 Jahodka je:
 
 * fajna
